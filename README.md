@@ -42,4 +42,16 @@ npm run dev
 * Jika ingin menyimpan API secara permanen, integrasikan dengan backend (Express + MongoDB).
 
 * CORS tidak jadi masalah untuk API seperti equran.id atau gading.dev karena sudah support CORS.
+---
+
+# Preview
+
+## 1. Menu Home
+![image](https://github.com/user-attachments/assets/94ccde50-5339-4dad-ae59-d225110c6cd4)
+
+## 2. Menu Products
+![image](https://github.com/user-attachments/assets/d4eb9b2f-54c3-4526-8ec2-6e27931ff9cf)
+
+## 3. Menu About
+![image](https://github.com/user-attachments/assets/7b12d559-fa00-4481-bb59-8649df287b80)
 
